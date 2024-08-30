@@ -34,6 +34,9 @@ Insight: Understand which position tends to have the highest market value.
 ## **Tools and Libraries:**
 
 Python: Core programming language used.
-pandas, numpy: For data manipulation and analysis.
-scikit-learn: For clustering and machine learning tasks.
-matplotlib, seaborn: For data visualization.
+
+Pandas, Numpy: For data manipulation and analysis.
+
+Scikit-learn: For clustering and machine learning tasks.
+
+Matplotlib, Seaborn: For data visualization.
